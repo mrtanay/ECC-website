@@ -1,0 +1,106 @@
+.top_bar{
+	background: #000080;
+	padding: 5px 0;
+}
+
+.social_icons{
+	margin-right: 10px;
+}
+
+.contact_info{
+	color: #fff;
+	font-size: 16px;
+}
+
+.my_menu{
+	margin-top: 45px;
+
+}
+
+.my_menu .navbar-default{
+	background: none;
+	border: none;
+}
+
+.my_menu .navbar-nav .active a, .my_menu .navbar-nav .active a:hover{
+	background: #000080;
+	color: #fff;
+}
+
+.my_menu .navbar-nav li a:hover{
+	background: #000080;
+	color: #fff;
+}
+
+@media (max-width: 1200px){
+	.my_menu .pull-right{float: none !important;}
+}
+
+.companies{
+	margin-top: 40px;
+	margin-left: 50px;
+}
+
+.Footer{
+	background: #000080;
+	padding: 20px 0;
+	color: #fff;
+}
+
+.Footer p{
+	color: #fff;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.Footer ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.Footer ul li{
+	color: #fff;
+	font-size: 15px;
+}
+
+.heading{
+	margin-top: 40px;
+}
+
+.team{
+	padding: 50px 0 80px;
+	text-align: center;
+}
+
+.team h4{
+	margin: 10px 0 10px;
+	color: #4c4c4c;
+}
+
+.team p{
+	color: #737373;
+	margin-top: 10px;
+}
+
+.team img{
+	height: 150px;
+	width: 150px;
+	margin-top: 40px;
+}
+
+.team i {
+    
+    height: 30px;
+    width: 30px;
+    padding: 5px;
+    font-size: 17px;
+    border-radius: 50%;
+    background-color: #a0db8e;
+    color: #fff;
+}
+
+.team a:hover i {
+    
+    background-color: #709963;
+}
